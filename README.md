@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeshwanth.S</h1>
 <h3 align="center">Currently Pursuing a AIML degree</h3>
 
-<p align="left"> <img src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKAhEu5o5lSFgclB.7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animated+coding+gif&fr2=piv-web&type=E210IN885G0&fr=mcafee#id=13&iurl=https%3A%2F%2Finstitute.careerguide.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fe426702edf874b181aced1e2fa5c6cde.gif&action=click </p>
+<p align="left"> <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif </p>
 
 - 👯 I’m looking to collaborate on **ML**
 
