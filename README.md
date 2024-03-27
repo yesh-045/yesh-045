@@ -5,7 +5,9 @@
   <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="200">
 </p>
 
-<p align="center">🚀 Excited about collaborating on **Machine Learning projects**</p>
+<p align="center">🚀 Excited about learning  **Machine Learning **</p>
+
+<p align="center">🚀 Excited about collaborate on   **web Dev projects **</p>
 <p align="center">📧 You can reach me at: **yeshw537@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
