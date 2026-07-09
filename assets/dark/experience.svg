@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1000 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — IIT Madras WSAI, THE EYE Cybersecurity &amp; AI Society, PSG College of Technology">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s}
+    .exp-flow { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 12; animation: flow-down 2s linear infinite; }
+    @keyframes flow-down { to { stroke-dashoffset: -16; } }
+    @media (prefers-reduced-motion: reduce) { .rise,.exp-flow { animation: none; } .rise { opacity: 1; } .exp-flow { stroke-dashoffset: 0; } }
+    :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
+  </style>
+
+  <line x1="120" y1="10" x2="120" y2="300" stroke="var(--rule)" stroke-width="1" opacity=".15"/>
+  <line class="exp-flow" x1="120" y1="10" x2="120" y2="300"/>
+
+  <g class="rise a1">
+    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">IIT Madras, WSAI · Research Intern · May–Jun</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">conducted GNN research for route selection within VRPTW Column Generation framework</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">evaluated Bipartite GNN, tuned CTGAN pipelines, and optimized SPPRC with 2-cycle elimination</text>
+  </g>
+
+  <g class="rise a2">
+    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2024–26</text>
+    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">THE EYE (Cybersecurity &amp; AI Society) · Core Team Member</text>
+    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">co-developed CTF portal backend with authentication and WebSocket scoreboard for 300+ players</text>
+    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">built TranscribeX workshop web app for video transcription &amp; AI summarization workflows</text>
+  </g>
+
+  <g class="rise a3">
+    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2023–</text>
+    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">PSG College of Technology · B.Tech Computer Science (AI &amp; ML)</text>
+    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">focusing on backend/ML systems, language modeling, and applied AI applications</text>
+    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">strengthening fundamentals through hands-on hackathons and community open source work</text>
+  </g>
+</svg>
