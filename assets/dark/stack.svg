@@ -1,32 +1,25 @@
-<svg viewBox="0 0 1000 206" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack — languages, backend, databases, infra, ai &amp; ml, tools">
+<svg viewBox="0 0 1000 186" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technical Stack">
   <style>
-    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --accent: #AAAAAA; } }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .rise { opacity: 0; animation: rise .6s cubic-bezier(.2,.7,.2,1) forwards; }
-    @keyframes rise { from { opacity:0;transform:translateY(6px); } to { opacity:1;transform:translateY(0); } }
-    .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.3s} .a4{animation-delay:.4s} .a5{animation-delay:.5s} .a6{animation-delay:.6s}
-    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
-    :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
+    :root { --bone: #FFFFFF; --muted: #888888; --rule: #262626; }
   </style>
 
-  <line x1="138" y1="8" x2="138" y2="198" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+  <text class="mono" x="0" y="16" font-size="11" font-weight="700" fill="var(--muted)" letter-spacing="2">01 // STACK</text>
+  
+  <line x1="120" y1="32" x2="120" y2="178" stroke="var(--rule)" stroke-width="1"/>
 
-  <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Python · C++ · TypeScript</text>
+  <text class="mono" x="0" y="50" font-size="11" fill="var(--muted)" letter-spacing="1.5">LANGUAGES</text>
+  <text class="mono" x="136" y="50" font-size="13" fill="var(--bone)">Python · C++ · TypeScript</text>
 
-  <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">BACKEND</text>
-  <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">FastAPI · Flask · WebSockets · REST APIs</text>
+  <text class="mono" x="0" y="76" font-size="11" fill="var(--muted)" letter-spacing="1.5">BACKEND</text>
+  <text class="mono" x="136" y="76" font-size="13" fill="var(--bone)">FastAPI · Flask · WebSockets · REST APIs</text>
 
-  <text class="mono rise a3" x="48" y="96"  font-size="12" fill="var(--muted)" letter-spacing="2">DATABASES</text>
-  <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">PostgreSQL · MongoDB · SQLite · Redis · TimescaleDB</text>
+  <text class="mono" x="0" y="102" font-size="11" fill="var(--muted)" letter-spacing="1.5">DATABASES</text>
+  <text class="mono" x="136" y="102" font-size="13" fill="var(--bone)">PostgreSQL · MongoDB · SQLite · Redis · TimescaleDB</text>
 
-  <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">INFRA</text>
-  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">Docker · Google Cloud · Linux · Git &amp; GitHub</text>
+  <text class="mono" x="0" y="128" font-size="11" fill="var(--muted)" letter-spacing="1.5">INFRA &amp; AI</text>
+  <text class="mono" x="136" y="128" font-size="13" fill="var(--bone)">Docker · GCP · Linux · PyTorch · Hugging Face · Graph RAG</text>
 
-  <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">AI &amp; ML</text>
-  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">PyTorch · Hugging Face · Graph Neural Networks · Graph RAG · Vertex AI</text>
-
-  <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLS</text>
-  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">VS Code · Warp · LazyGit · Postman · Figma · Cursor</text>
+  <text class="mono" x="0" y="154" font-size="11" fill="var(--muted)" letter-spacing="1.5">TOOLS</text>
+  <text class="mono" x="136" y="154" font-size="13" fill="var(--bone)">VS Code · Warp · LazyGit · Postman · Figma · Cursor</text>
 </svg>
