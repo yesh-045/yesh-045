@@ -1,18 +1,9 @@
-<svg viewBox="0 0 1000 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yeshwanth S Profile Header">
+<svg viewBox="0 0 1000 70" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yeshwanth S Header">
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    :root { --ink: #FFFFFF; --dim: #888888; --rule: #262626; --dot: #444444; }
+    :root { --ink: #FFFFFF; --dim: #888888; --rule: #262626; }
   </style>
-  <rect x="0.5" y="0.5" width="999" height="89" rx="4" stroke="var(--rule)" stroke-width="1"/>
-  
-  <!-- Terminal Top Bar -->
-  <line x1="0" y1="28" x2="1000" y2="28" stroke="var(--rule)" stroke-width="1"/>
-  <circle cx="16" cy="14" r="3.5" fill="var(--dot)"/>
-  <circle cx="28" cy="14" r="3.5" fill="var(--dot)"/>
-  <circle cx="40" cy="14" r="3.5" fill="var(--dot)"/>
-  <text class="mono" x="54" y="18" font-size="10" fill="var(--dim)" letter-spacing="1">yeshwanth@system ~ % whoami</text>
-
-  <!-- Terminal Content -->
-  <text class="mono" x="16" y="52" font-size="16" font-weight="700" fill="var(--ink)" letter-spacing="1">YESHWANTH S</text>
-  <text class="mono" x="16" y="72" font-size="11" fill="var(--dim)" letter-spacing="0.5">software engineer · backend &amp; ai systems · iit madras research intern</text>
+  <text class="mono" x="0" y="24" font-size="20" font-weight="700" fill="var(--ink)" letter-spacing="2">YESHWANTH S</text>
+  <text class="mono" x="0" y="46" font-size="12" fill="var(--dim)" letter-spacing="1">SOFTWARE ENGINEER · BACKEND &amp; AI SYSTEMS</text>
+  <line x1="0" y1="62" x2="1000" y2="62" stroke="var(--rule)" stroke-width="1"/>
 </svg>
